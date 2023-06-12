@@ -2,6 +2,7 @@
 
 # env config files 
 apps/surveybear-api/.env
+apps/surveybear-survey-spa/.env
 
 # compiled output
 /dist
