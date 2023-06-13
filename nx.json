@@ -1,5 +1,4 @@
 {
-  "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "npmScope": "surveybear",
   "affected": {
     "defaultBase": "main"
@@ -13,8 +12,7 @@
           "lint",
           "test",
           "e2e"
-        ],
-        "accessToken": "ZjFkYzRjZDktNGJmOC00N2ZjLTlhOWQtOGQ4YTIwZTI1YjNlfHJlYWQtd3JpdGU="
+        ]
       }
     }
   },
